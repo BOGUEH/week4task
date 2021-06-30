@@ -1,0 +1,18 @@
+
+#header{
+    background-color: rgb(181, 245, 242);
+    font-size: 30px;
+  
+}
+
+.counter-app{
+    width: 100%;
+
+    align-self: center;
+    display: flex;
+    margin:auto;
+    width: 20%;
+}
+#digit{
+    font-size: 100px;
+}
