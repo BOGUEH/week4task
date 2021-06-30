@@ -1,17 +1,41 @@
 
 #header{
-    background-color: rgb(181, 245, 242);
+    background-color: rgb(192, 245, 236);
     font-size: 30px;
   
 }
 
-.counter-app{
+.header{
     width: 100%;
-
-    align-self: center;
     display: flex;
+    justify-content: center;
     margin:auto;
-    width: 20%;
+    
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+}
+#count-down {
+    padding: 20px;
+    margin: 20px;
+}
+#count-up{
+    padding: 20px;
+    margin: 20px;
+}
+#reset{
+    padding: 20px;
+    margin: 20px;
+}
+.digit{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    
 }
 #digit{
     font-size: 100px;
